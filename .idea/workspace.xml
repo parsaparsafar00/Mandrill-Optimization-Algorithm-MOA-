@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5e5452-4641-454f-8225-4d5598249365" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bdVREa8wP9Fqa6a1UoV6twnz4N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CSA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GSA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GWO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mandrill_Optimization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multi-modal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PSO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Us_appointment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WOA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.beecolpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.benchmarks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constraints.executor&quot;: &quot;Run&quot;,
+    &quot;Python.high-dim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.high_dim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hyper-new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hypersphere.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plotting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pressure_vessel_plot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/Meta-heuristic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.SQLite&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Meta-heuristic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Mandrill_Optimization">
+    <configuration name="Mandrill_Optimization" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\parsa\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\xampp\htdocs\Meta-heuristic\Mandrill_Optimization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hypersphere-segment-plot_3D" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\parsa\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hypersphere-segment-plot_3D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hypersphere" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\parsa\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hypersphere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\parsa\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quadratic" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\parsa\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quadratic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\parsa\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Meta-heuristic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\parsa\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Mandrill_Optimization" />
+      <item itemvalue="Python.hypersphere-segment-plot_3D" />
+      <item itemvalue="Python.hypersphere" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.quadratic" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.test" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5e5452-4641-454f-8225-4d5598249365" name="Changes" comment="" />
+      <created>1706544932537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706544932537</updated>
+      <workItem from="1706544933605" duration="7997000" />
+      <workItem from="1706601937513" duration="13528000" />
+      <workItem from="1706695258121" duration="7632000" />
+      <workItem from="1706788875382" duration="20143000" />
+      <workItem from="1706866254162" duration="13251000" />
+      <workItem from="1706969420097" duration="26297000" />
+      <workItem from="1707129518619" duration="20729000" />
+      <workItem from="1707196844385" duration="48370000" />
+      <workItem from="1707564686701" duration="13075000" />
+      <workItem from="1707647031092" duration="14838000" />
+      <workItem from="1707731184365" duration="9746000" />
+      <workItem from="1707828888047" duration="12278000" />
+      <workItem from="1707914887795" duration="14087000" />
+      <workItem from="1707999205510" duration="426000" />
+      <workItem from="1707999641335" duration="6000" />
+      <workItem from="1708340084886" duration="20650000" />
+      <workItem from="1708851377377" duration="17000" />
+      <workItem from="1708865806629" duration="4000" />
+      <workItem from="1708879558229" duration="725000" />
+      <workItem from="1709189932292" duration="21220000" />
+      <workItem from="1709278311555" duration="7597000" />
+      <workItem from="1709462638072" duration="10702000" />
+      <workItem from="1709631650149" duration="11000" />
+      <workItem from="1709642770925" duration="5108000" />
+      <workItem from="1709739084218" duration="65598000" />
+      <workItem from="1710137329548" duration="24225000" />
+      <workItem from="1710226550223" duration="4310000" />
+      <workItem from="1710530004599" duration="2008000" />
+      <workItem from="1710532039210" duration="2000" />
+      <workItem from="1710572138682" duration="594000" />
+      <workItem from="1710708851350" duration="12404000" />
+      <workItem from="1711038283111" duration="8805000" />
+      <workItem from="1711190990607" duration="957000" />
+      <workItem from="1711640740444" duration="4254000" />
+      <workItem from="1711700222481" duration="17106000" />
+      <workItem from="1711792336563" duration="11763000" />
+      <workItem from="1711877408008" duration="38898000" />
+      <workItem from="1712146549940" duration="2762000" />
+      <workItem from="1712269446539" duration="26593000" />
+      <workItem from="1713003226678" duration="2000" />
+      <workItem from="1713012739440" duration="2000" />
+      <workItem from="1713429027161" duration="18920000" />
+      <workItem from="1713514766011" duration="12832000" />
+      <workItem from="1713700386229" duration="16940000" />
+      <workItem from="1713945346556" duration="5796000" />
+      <workItem from="1714029378250" duration="622000" />
+      <workItem from="1714030680335" duration="21641000" />
+      <workItem from="1714117156162" duration="8597000" />
+      <workItem from="1714238432367" duration="7409000" />
+      <workItem from="1714288629625" duration="20392000" />
+      <workItem from="1714410474137" duration="8725000" />
+      <workItem from="1714750884737" duration="10594000" />
+      <workItem from="1714830180991" duration="13058000" />
+      <workItem from="1715067198318" duration="10881000" />
+      <workItem from="1715195841046" duration="3000" />
+      <workItem from="1715327049930" duration="3291000" />
+      <workItem from="1715412460791" duration="247000" />
+      <workItem from="1715673386045" duration="24026000" />
+      <workItem from="1715760945275" duration="17325000" />
+      <workItem from="1715804150929" duration="2185000" />
+      <workItem from="1715843072507" duration="8269000" />
+      <workItem from="1716189171422" duration="38203000" />
+      <workItem from="1716539265512" duration="11000" />
+      <workItem from="1716821391028" duration="80000" />
+      <workItem from="1734283694907" duration="5440000" />
+      <workItem from="1734331805688" duration="15567000" />
+      <workItem from="1734365472058" duration="6556000" />
+      <workItem from="1734375489036" duration="2893000" />
+      <workItem from="1734423167706" duration="12512000" />
+      <workItem from="1734440895410" duration="16547000" />
+      <workItem from="1734507388592" duration="27765000" />
+      <workItem from="1734596629547" duration="17824000" />
+      <workItem from="1734685318732" duration="12250000" />
+      <workItem from="1734867769055" duration="10358000" />
+      <workItem from="1734979828526" duration="4132000" />
+      <workItem from="1735029864895" duration="3549000" />
+      <workItem from="1736785401873" duration="2000" />
+      <workItem from="1736835970909" duration="66000" />
+      <workItem from="1737014183812" duration="11000" />
+      <workItem from="1737014210716" duration="20050000" />
+      <workItem from="1737226539830" duration="1224000" />
+      <workItem from="1737282399631" duration="17322000" />
+      <workItem from="1737368343649" duration="11814000" />
+      <workItem from="1737439428202" duration="40567000" />
+      <workItem from="1737614211465" duration="20922000" />
+      <workItem from="1737704711314" duration="6263000" />
+      <workItem from="1737791975406" duration="487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Meta_heuristic$.coverage" NAME=" Coverage Results" MODIFIED="1714245373375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$test.coverage" NAME="test Coverage Results" MODIFIED="1737648158854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$hypersphere.coverage" NAME="hypersphere Coverage Results" MODIFIED="1710226590279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$main.coverage" NAME="main Coverage Results" MODIFIED="1706916152255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$quadratic.coverage" NAME="quadratic Coverage Results" MODIFIED="1709193765832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1714491527855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$Mandrill_Optimization.coverage" NAME="Mandrill_Optimization Coverage Results" MODIFIED="1737284954002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$hypersphere_segment_plot.coverage" NAME="hypersphere-segment-plot Coverage Results" MODIFIED="1707684636787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$cirlce_segment_plot.coverage" NAME="cirlce-segment-plot Coverage Results" MODIFIED="1707196909674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$plot.coverage" NAME="plot Coverage Results" MODIFIED="1734519222991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Meta_heuristic$hyper_new.coverage" NAME="hyper-new Coverage Results" MODIFIED="1716196757870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
