@@ -3,7 +3,7 @@ import copy
 import time
 import numpy as np
 from benchmarks import *
-from plotting import *
+
 
 start_time = time.time()
 np.seterr(all='print')
