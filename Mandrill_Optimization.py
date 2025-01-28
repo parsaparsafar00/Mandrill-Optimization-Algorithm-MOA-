@@ -13,7 +13,6 @@ class Particle:
     def __init__(self, objective_function=None, min_particle=None, max_particle=None, minX=None, maxX=None, gender=None, dominator=None, pre_def_position=None, radius=None):
 
         self.max_radius_space = None
-        self.par_id = id(self)
         self.obj_func = objective_function
         self.min_range = minX
         self.max_range = maxX
